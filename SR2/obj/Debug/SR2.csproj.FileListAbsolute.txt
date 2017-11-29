@@ -1,0 +1,9 @@
+C:\Users\wilhitt\Documents\Visual Studio 2015\Projects\SR2\SR2\bin\Debug\SR2.exe.config
+C:\Users\wilhitt\Documents\Visual Studio 2015\Projects\SR2\SR2\bin\Debug\SR2.exe
+C:\Users\wilhitt\Documents\Visual Studio 2015\Projects\SR2\SR2\bin\Debug\SR2.pdb
+C:\Users\wilhitt\Documents\Visual Studio 2015\Projects\SR2\SR2\obj\Debug\SR2.csprojResolveAssemblyReference.cache
+C:\Users\wilhitt\Documents\Visual Studio 2015\Projects\SR2\SR2\obj\Debug\SR2.Form1.resources
+C:\Users\wilhitt\Documents\Visual Studio 2015\Projects\SR2\SR2\obj\Debug\SR2.Properties.Resources.resources
+C:\Users\wilhitt\Documents\Visual Studio 2015\Projects\SR2\SR2\obj\Debug\SR2.csproj.GenerateResource.Cache
+C:\Users\wilhitt\Documents\Visual Studio 2015\Projects\SR2\SR2\obj\Debug\SR2.exe
+C:\Users\wilhitt\Documents\Visual Studio 2015\Projects\SR2\SR2\obj\Debug\SR2.pdb

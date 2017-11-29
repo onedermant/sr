@@ -1,0 +1,632 @@
+11/29/17 09:40:28.055 AM		INFO	                		Good1 added to good guys.
+11/29/17 09:40:28.205 AM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 09:40:28.206 AM		INFO	                		Fireball weapon added to Good1
+11/29/17 09:40:28.206 AM		INFO	                		Fist weapon added to Good1
+11/29/17 09:40:28.207 AM		INFO	                		Good2 added to good guys.
+11/29/17 09:40:28.208 AM		INFO	                		Fireball weapon added to Good2
+11/29/17 09:40:28.208 AM		INFO	                		Fist weapon added to Good2
+11/29/17 09:40:28.209 AM		INFO	                		Good3 added to good guys.
+11/29/17 09:40:28.210 AM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 09:40:28.210 AM		INFO	                		Good4 added to good guys.
+11/29/17 09:40:28.211 AM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 09:40:28.244 AM		INFO	                		Bad1 added to bad guys.
+11/29/17 09:40:31.741 AM		INFO	                		Bad2 added to bad guys.
+11/29/17 09:40:31.743 AM		INFO	                		Bad3 added to bad guys.
+11/29/17 09:40:31.744 AM		INFO	                		Bad4 added to bad guys.
+11/29/17 09:40:31.745 AM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 09:40:31.746 AM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 09:40:31.746 AM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 09:40:31.747 AM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 09:40:41.493 AM		INITIATIVE	                		Good1 initiative is 25
+11/29/17 09:40:41.540 AM		INITIATIVE	                		Good2 initiative is 7
+11/29/17 09:40:41.547 AM		INITIATIVE	                		Good3 initiative is 14
+11/29/17 09:40:41.554 AM		INITIATIVE	                		Good4 initiative is 8
+11/29/17 09:40:41.560 AM		INITIATIVE	                		Bad1 initiative is 5
+11/29/17 09:40:41.568 AM		INITIATIVE	                		Bad2 initiative is 8
+11/29/17 09:40:41.575 AM		INITIATIVE	                		Bad3 initiative is 10
+11/29/17 09:40:41.585 AM		INITIATIVE	                		Bad4 initiative is 11
+11/29/17 09:42:36.328 AM		INFO	                		Initiative is now resolved, combat round is over.
+11/29/17 09:49:34.997 AM		INFO	                		Good1 added to good guys.
+11/29/17 09:49:35.012 AM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 09:49:35.018 AM		INFO	                		Fireball weapon added to Good1
+11/29/17 09:49:35.023 AM		INFO	                		Fist weapon added to Good1
+11/29/17 09:49:35.028 AM		INFO	                		Good2 added to good guys.
+11/29/17 09:49:35.030 AM		INFO	                		Fireball weapon added to Good2
+11/29/17 09:49:35.030 AM		INFO	                		Fist weapon added to Good2
+11/29/17 09:49:35.032 AM		INFO	                		Good3 added to good guys.
+11/29/17 09:49:35.032 AM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 09:49:35.033 AM		INFO	                		Good4 added to good guys.
+11/29/17 09:49:35.035 AM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 09:49:35.036 AM		INFO	                		Bad1 added to bad guys.
+11/29/17 09:49:35.038 AM		INFO	                		Bad2 added to bad guys.
+11/29/17 09:49:35.040 AM		INFO	                		Bad3 added to bad guys.
+11/29/17 09:49:35.041 AM		INFO	                		Bad4 added to bad guys.
+11/29/17 09:49:35.043 AM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 09:49:35.043 AM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 09:49:35.044 AM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 09:49:35.045 AM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 09:49:38.571 AM		INITIATIVE	                		Good1 initiative is 25
+11/29/17 09:49:38.571 AM		INITIATIVE	                		Good2 initiative is 10
+11/29/17 09:49:38.587 AM		INITIATIVE	                		Good3 initiative is 14
+11/29/17 09:49:38.603 AM		INITIATIVE	                		Good4 initiative is 8
+11/29/17 09:49:38.618 AM		INITIATIVE	                		Bad1 initiative is 5
+11/29/17 09:49:38.618 AM		INITIATIVE	                		Bad2 initiative is 11
+11/29/17 09:49:38.618 AM		INITIATIVE	                		Bad3 initiative is 13
+11/29/17 09:49:38.634 AM		INITIATIVE	                		Bad4 initiative is 11
+11/29/17 10:17:23.198 AM		INFO	                		Good1 added to good guys.
+11/29/17 10:17:23.218 AM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 10:17:23.231 AM		INFO	                		Fireball weapon added to Good1
+11/29/17 10:17:23.231 AM		INFO	                		Fist weapon added to Good1
+11/29/17 10:17:23.232 AM		INFO	                		Good2 added to good guys.
+11/29/17 10:17:23.233 AM		INFO	                		Fireball weapon added to Good2
+11/29/17 10:17:23.234 AM		INFO	                		Fist weapon added to Good2
+11/29/17 10:17:23.235 AM		INFO	                		Good3 added to good guys.
+11/29/17 10:17:23.236 AM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 10:17:23.237 AM		INFO	                		Good4 added to good guys.
+11/29/17 10:17:23.237 AM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 10:17:23.239 AM		INFO	                		Bad1 added to bad guys.
+11/29/17 10:17:23.240 AM		INFO	                		Bad2 added to bad guys.
+11/29/17 10:17:23.241 AM		INFO	                		Bad3 added to bad guys.
+11/29/17 10:17:23.242 AM		INFO	                		Bad4 added to bad guys.
+11/29/17 10:17:23.243 AM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 10:17:23.244 AM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 10:17:23.244 AM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 10:17:23.245 AM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 10:17:44.208 AM		INFO	                		Good1 added to good guys.
+11/29/17 10:17:44.228 AM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 10:17:44.235 AM		INFO	                		Fireball weapon added to Good1
+11/29/17 10:17:44.240 AM		INFO	                		Fist weapon added to Good1
+11/29/17 10:17:44.241 AM		INFO	                		Good2 added to good guys.
+11/29/17 10:17:44.242 AM		INFO	                		Fireball weapon added to Good2
+11/29/17 10:17:44.243 AM		INFO	                		Fist weapon added to Good2
+11/29/17 10:17:44.244 AM		INFO	                		Good3 added to good guys.
+11/29/17 10:17:44.245 AM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 10:17:44.246 AM		INFO	                		Good4 added to good guys.
+11/29/17 10:17:44.247 AM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 10:17:44.249 AM		INFO	                		Bad1 added to bad guys.
+11/29/17 10:17:44.250 AM		INFO	                		Bad2 added to bad guys.
+11/29/17 10:17:44.251 AM		INFO	                		Bad3 added to bad guys.
+11/29/17 10:17:44.252 AM		INFO	                		Bad4 added to bad guys.
+11/29/17 10:17:44.252 AM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 10:17:44.253 AM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 10:17:44.254 AM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 10:17:44.254 AM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 10:17:49.805 AM		INITIATIVE	                		Good1 initiative is 24
+11/29/17 10:17:49.829 AM		INITIATIVE	                		Good2 initiative is 9
+11/29/17 10:17:49.838 AM		INITIATIVE	                		Good3 initiative is 18
+11/29/17 10:17:49.850 AM		INITIATIVE	                		Good4 initiative is 7
+11/29/17 10:17:49.856 AM		INITIATIVE	                		Bad1 initiative is 7
+11/29/17 10:17:49.864 AM		INITIATIVE	                		Bad2 initiative is 10
+11/29/17 10:17:49.872 AM		INITIATIVE	                		Bad3 initiative is 12
+11/29/17 10:17:49.880 AM		INITIATIVE	                		Bad4 initiative is 7
+11/29/17 10:20:26.207 AM		INFO	                		Good1 added to good guys.
+11/29/17 10:20:26.226 AM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 10:20:26.232 AM		INFO	                		Fireball weapon added to Good1
+11/29/17 10:20:26.235 AM		INFO	                		Fist weapon added to Good1
+11/29/17 10:20:32.862 AM		INFO	                		Good2 added to good guys.
+11/29/17 10:20:32.862 AM		INFO	                		Fireball weapon added to Good2
+11/29/17 10:20:32.862 AM		INFO	                		Fist weapon added to Good2
+11/29/17 10:20:36.488 AM		INFO	                		Good3 added to good guys.
+11/29/17 10:20:36.488 AM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 10:20:42.462 AM		INFO	                		Good4 added to good guys.
+11/29/17 10:20:42.477 AM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 10:20:47.820 AM		INFO	                		Bad1 added to bad guys.
+11/29/17 10:20:47.820 AM		INFO	                		Bad2 added to bad guys.
+11/29/17 10:20:47.824 AM		INFO	                		Bad3 added to bad guys.
+11/29/17 10:20:47.856 AM		INFO	                		Bad4 added to bad guys.
+11/29/17 10:20:47.856 AM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 10:20:47.856 AM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 10:20:47.856 AM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 10:20:47.856 AM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 10:22:03.065 AM		INFO	                		Good1 added to good guys.
+11/29/17 10:22:03.086 AM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 10:22:03.093 AM		INFO	                		Fireball weapon added to Good1
+11/29/17 10:22:03.099 AM		INFO	                		Fist weapon added to Good1
+11/29/17 10:22:03.100 AM		INFO	                		Good2 added to good guys.
+11/29/17 10:22:03.101 AM		INFO	                		Fireball weapon added to Good2
+11/29/17 10:22:03.101 AM		INFO	                		Fist weapon added to Good2
+11/29/17 10:22:03.102 AM		INFO	                		Good3 added to good guys.
+11/29/17 10:22:03.103 AM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 10:22:03.104 AM		INFO	                		Good4 added to good guys.
+11/29/17 10:22:03.104 AM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 10:22:03.106 AM		INFO	                		Bad1 added to bad guys.
+11/29/17 10:22:03.106 AM		INFO	                		Bad2 added to bad guys.
+11/29/17 10:22:03.107 AM		INFO	                		Bad3 added to bad guys.
+11/29/17 10:22:03.109 AM		INFO	                		Bad4 added to bad guys.
+11/29/17 10:22:03.109 AM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 10:22:03.110 AM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 10:22:03.110 AM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 10:22:03.111 AM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 10:22:06.097 AM		INITIATIVE	                		Good1 initiative is 30
+11/29/17 10:22:06.113 AM		INITIATIVE	                		Good2 initiative is 11
+11/29/17 10:22:06.128 AM		INITIATIVE	                		Good3 initiative is 14
+11/29/17 10:22:06.128 AM		INITIATIVE	                		Good4 initiative is 10
+11/29/17 10:22:06.144 AM		INITIATIVE	                		Bad1 initiative is 8
+11/29/17 10:22:06.144 AM		INITIATIVE	                		Bad2 initiative is 9
+11/29/17 10:22:06.160 AM		INITIATIVE	                		Bad3 initiative is 8
+11/29/17 10:22:06.160 AM		INITIATIVE	                		Bad4 initiative is 7
+11/29/17 10:22:06.175 AM		INFO	                		Good1 turn.
+11/29/17 10:22:31.410 AM		INFO	                		Good1 added to good guys.
+11/29/17 10:22:31.436 AM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 10:22:31.448 AM		INFO	                		Fireball weapon added to Good1
+11/29/17 10:22:31.456 AM		INFO	                		Fist weapon added to Good1
+11/29/17 10:22:31.457 AM		INFO	                		Good2 added to good guys.
+11/29/17 10:22:31.458 AM		INFO	                		Fireball weapon added to Good2
+11/29/17 10:22:31.459 AM		INFO	                		Fist weapon added to Good2
+11/29/17 10:22:31.460 AM		INFO	                		Good3 added to good guys.
+11/29/17 10:22:31.461 AM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 10:22:31.462 AM		INFO	                		Good4 added to good guys.
+11/29/17 10:22:31.462 AM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 10:22:31.464 AM		INFO	                		Bad1 added to bad guys.
+11/29/17 10:22:31.465 AM		INFO	                		Bad2 added to bad guys.
+11/29/17 10:22:31.472 AM		INFO	                		Bad3 added to bad guys.
+11/29/17 10:22:31.474 AM		INFO	                		Bad4 added to bad guys.
+11/29/17 10:22:31.474 AM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 10:22:31.475 AM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 10:22:31.476 AM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 10:22:31.476 AM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 10:22:44.163 AM		INITIATIVE	                		Good1 initiative is 24
+11/29/17 10:22:44.196 AM		INITIATIVE	                		Good2 initiative is 7
+11/29/17 10:22:44.227 AM		INITIATIVE	                		Good3 initiative is 13
+11/29/17 10:22:44.242 AM		INITIATIVE	                		Good4 initiative is 10
+11/29/17 10:22:44.258 AM		INITIATIVE	                		Bad1 initiative is 8
+11/29/17 10:22:44.258 AM		INITIATIVE	                		Bad2 initiative is 9
+11/29/17 10:22:44.274 AM		INITIATIVE	                		Bad3 initiative is 8
+11/29/17 10:22:44.274 AM		INITIATIVE	                		Bad4 initiative is 8
+11/29/17 10:22:44.289 AM		INFO	                		Good1's turn.
+11/29/17 10:23:31.294 AM		INFO	                		Good1 added to good guys.
+11/29/17 10:23:31.311 AM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 10:23:31.317 AM		INFO	                		Fireball weapon added to Good1
+11/29/17 10:23:31.321 AM		INFO	                		Fist weapon added to Good1
+11/29/17 10:23:31.322 AM		INFO	                		Good2 added to good guys.
+11/29/17 10:23:31.323 AM		INFO	                		Fireball weapon added to Good2
+11/29/17 10:23:31.324 AM		INFO	                		Fist weapon added to Good2
+11/29/17 10:23:31.325 AM		INFO	                		Good3 added to good guys.
+11/29/17 10:23:31.325 AM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 10:23:31.326 AM		INFO	                		Good4 added to good guys.
+11/29/17 10:23:31.327 AM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 10:23:31.328 AM		INFO	                		Bad1 added to bad guys.
+11/29/17 10:23:31.329 AM		INFO	                		Bad2 added to bad guys.
+11/29/17 10:23:31.330 AM		INFO	                		Bad3 added to bad guys.
+11/29/17 10:23:31.331 AM		INFO	                		Bad4 added to bad guys.
+11/29/17 10:23:31.332 AM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 10:23:31.332 AM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 10:23:31.333 AM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 10:23:31.333 AM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 10:23:40.493 AM		INITIATIVE	                		Good1 initiative is 25
+11/29/17 10:23:40.494 AM		INITIATIVE	                		Good2 initiative is 8
+11/29/17 10:23:40.530 AM		INITIATIVE	                		Good3 initiative is 15
+11/29/17 10:23:40.546 AM		INITIATIVE	                		Good4 initiative is 10
+11/29/17 10:23:40.561 AM		INITIATIVE	                		Bad1 initiative is 5
+11/29/17 10:23:40.561 AM		INITIATIVE	                		Bad2 initiative is 7
+11/29/17 10:23:40.577 AM		INITIATIVE	                		Bad3 initiative is 11
+11/29/17 10:23:40.577 AM		INITIATIVE	                		Bad4 initiative is 10
+11/29/17 10:23:40.577 AM		INFO	                		Good1's turn.
+11/29/17 12:27:08.245 PM		INFO	                		Good1 added to good guys.
+11/29/17 12:27:08.465 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 12:27:08.467 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 12:27:08.468 PM		INFO	                		Fist weapon added to Good1
+11/29/17 12:27:08.470 PM		INFO	                		Good2 added to good guys.
+11/29/17 12:27:08.471 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 12:27:08.472 PM		INFO	                		Fist weapon added to Good2
+11/29/17 12:27:08.475 PM		INFO	                		Good3 added to good guys.
+11/29/17 12:27:08.476 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 12:27:08.477 PM		INFO	                		Good4 added to good guys.
+11/29/17 12:27:08.478 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 12:27:08.562 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 12:27:08.565 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 12:27:08.567 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 12:27:08.570 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 12:27:08.572 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 12:27:08.573 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 12:27:08.575 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 12:27:08.576 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 12:28:10.396 PM		INITIATIVE	                		Good1 initiative is 28
+11/29/17 12:28:10.426 PM		INITIATIVE	                		Good2 initiative is 10
+11/29/17 12:28:10.427 PM		INITIATIVE	                		Good3 initiative is 10
+11/29/17 12:28:10.447 PM		INITIATIVE	                		Good4 initiative is 9
+11/29/17 12:28:10.532 PM		INITIATIVE	                		Bad1 initiative is 8
+11/29/17 12:28:10.542 PM		INITIATIVE	                		Bad2 initiative is 8
+11/29/17 12:28:10.542 PM		INITIATIVE	                		Bad3 initiative is 13
+11/29/17 12:28:10.543 PM		INITIATIVE	                		Bad4 initiative is 7
+11/29/17 12:28:10.544 PM		INFO	                		Good1's turn.
+11/29/17 12:30:56.202 PM		INITIATIVE	                		Good1 initiative is 26
+11/29/17 12:30:56.233 PM		INITIATIVE	                		Good2 initiative is 10
+11/29/17 12:30:56.296 PM		INITIATIVE	                		Good3 initiative is 15
+11/29/17 12:30:56.311 PM		INITIATIVE	                		Good4 initiative is 7
+11/29/17 12:30:56.327 PM		INITIATIVE	                		Bad1 initiative is 9
+11/29/17 12:30:56.327 PM		INITIATIVE	                		Bad2 initiative is 8
+11/29/17 12:30:56.327 PM		INITIATIVE	                		Bad3 initiative is 11
+11/29/17 12:30:56.342 PM		INITIATIVE	                		Bad4 initiative is 10
+11/29/17 12:30:56.342 PM		INFO	                		Good1's turn.
+11/29/17 12:31:00.670 PM		INITIATIVE	                		Good1 initiative is 30
+11/29/17 12:31:00.686 PM		INITIATIVE	                		Good2 initiative is 8
+11/29/17 12:31:00.701 PM		INITIATIVE	                		Good3 initiative is 14
+11/29/17 12:31:00.717 PM		INITIATIVE	                		Good4 initiative is 10
+11/29/17 12:31:00.717 PM		INITIATIVE	                		Bad1 initiative is 9
+11/29/17 12:31:00.733 PM		INITIATIVE	                		Bad2 initiative is 10
+11/29/17 12:31:00.733 PM		INITIATIVE	                		Bad3 initiative is 10
+11/29/17 12:31:00.733 PM		INITIATIVE	                		Bad4 initiative is 7
+11/29/17 12:31:00.748 PM		INFO	                		Good1's turn.
+11/29/17 12:31:02.251 PM		INITIATIVE	                		Good1 initiative is 29
+11/29/17 12:31:02.267 PM		INITIATIVE	                		Good2 initiative is 8
+11/29/17 12:31:02.298 PM		INITIATIVE	                		Good3 initiative is 14
+11/29/17 12:31:02.298 PM		INITIATIVE	                		Good4 initiative is 11
+11/29/17 12:31:02.314 PM		INITIATIVE	                		Bad1 initiative is 9
+11/29/17 12:31:02.329 PM		INITIATIVE	                		Bad2 initiative is 9
+11/29/17 12:31:02.329 PM		INITIATIVE	                		Bad3 initiative is 10
+11/29/17 12:31:02.345 PM		INITIATIVE	                		Bad4 initiative is 11
+11/29/17 12:31:02.345 PM		INFO	                		Good1's turn.
+11/29/17 12:31:03.425 PM		INITIATIVE	                		Good1 initiative is 28
+11/29/17 12:31:03.457 PM		INITIATIVE	                		Good2 initiative is 10
+11/29/17 12:31:03.472 PM		INITIATIVE	                		Good3 initiative is 13
+11/29/17 12:31:03.488 PM		INITIATIVE	                		Good4 initiative is 11
+11/29/17 12:31:03.488 PM		INITIATIVE	                		Bad1 initiative is 7
+11/29/17 12:31:03.503 PM		INITIATIVE	                		Bad2 initiative is 11
+11/29/17 12:31:03.503 PM		INITIATIVE	                		Bad3 initiative is 9
+11/29/17 12:31:03.519 PM		INITIATIVE	                		Bad4 initiative is 7
+11/29/17 12:31:03.519 PM		INFO	                		Good1's turn.
+11/29/17 12:31:04.398 PM		INITIATIVE	                		Good1 initiative is 25
+11/29/17 12:31:04.414 PM		INITIATIVE	                		Good2 initiative is 8
+11/29/17 12:31:04.429 PM		INITIATIVE	                		Good3 initiative is 14
+11/29/17 12:31:04.445 PM		INITIATIVE	                		Good4 initiative is 11
+11/29/17 12:31:04.461 PM		INITIATIVE	                		Bad1 initiative is 5
+11/29/17 12:31:04.461 PM		INITIATIVE	                		Bad2 initiative is 8
+11/29/17 12:31:04.476 PM		INITIATIVE	                		Bad3 initiative is 11
+11/29/17 12:31:04.476 PM		INITIATIVE	                		Bad4 initiative is 11
+11/29/17 12:31:04.492 PM		INFO	                		Good1's turn.
+11/29/17 12:31:05.557 PM		INITIATIVE	                		Good1 initiative is 30
+11/29/17 12:31:05.557 PM		INITIATIVE	                		Good2 initiative is 11
+11/29/17 12:31:05.573 PM		INITIATIVE	                		Good3 initiative is 14
+11/29/17 12:31:05.588 PM		INITIATIVE	                		Good4 initiative is 8
+11/29/17 12:31:05.588 PM		INITIATIVE	                		Bad1 initiative is 5
+11/29/17 12:31:05.588 PM		INITIATIVE	                		Bad2 initiative is 8
+11/29/17 12:31:05.604 PM		INITIATIVE	                		Bad3 initiative is 9
+11/29/17 12:31:05.604 PM		INITIATIVE	                		Bad4 initiative is 11
+11/29/17 12:31:05.619 PM		INFO	                		Good1's turn.
+11/29/17 12:33:46.549 PM		INFO	                		Good1 added to good guys.
+11/29/17 12:33:46.576 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 12:33:46.582 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 12:33:46.587 PM		INFO	                		Fist weapon added to Good1
+11/29/17 12:33:46.589 PM		INFO	                		Good2 added to good guys.
+11/29/17 12:33:46.590 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 12:33:46.591 PM		INFO	                		Fist weapon added to Good2
+11/29/17 12:33:46.592 PM		INFO	                		Good3 added to good guys.
+11/29/17 12:33:46.595 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 12:33:46.596 PM		INFO	                		Good4 added to good guys.
+11/29/17 12:33:46.597 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 12:33:46.598 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 12:33:46.600 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 12:33:46.601 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 12:33:46.602 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 12:33:46.603 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 12:33:46.607 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 12:33:46.608 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 12:33:46.609 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 12:33:51.942 PM		INITIATIVE	                		Good1 initiative is 28 (3,4,2,3,15) (27)
+11/29/17 12:33:51.958 PM		INITIATIVE	                		Good2 initiative is 10 (5,6) (11)
+11/29/17 12:33:52.006 PM		INITIATIVE	                		Good3 initiative is 11 (2,5,8) (15)
+11/29/17 12:33:52.021 PM		INITIATIVE	                		Good4 initiative is 9 (1,6) (7)
+11/29/17 12:33:52.021 PM		INITIATIVE	                		Bad1 initiative is 6 (3,4) (7)
+11/29/17 12:33:52.037 PM		INITIATIVE	                		Bad2 initiative is 11 (5,6) (11)
+11/29/17 12:33:52.037 PM		INITIATIVE	                		Bad3 initiative is 11 (1,2,4) (7)
+11/29/17 12:33:52.052 PM		INITIATIVE	                		Bad4 initiative is 7 (3,6) (9)
+11/29/17 12:33:52.052 PM		INFO	                		Good1's turn.
+11/29/17 12:35:45.760 PM		INFO	                		Good1 added to good guys.
+11/29/17 12:35:45.779 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 12:35:45.785 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 12:35:45.790 PM		INFO	                		Fist weapon added to Good1
+11/29/17 12:35:45.791 PM		INFO	                		Good2 added to good guys.
+11/29/17 12:35:45.793 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 12:35:45.794 PM		INFO	                		Fist weapon added to Good2
+11/29/17 12:35:45.795 PM		INFO	                		Good3 added to good guys.
+11/29/17 12:35:45.796 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 12:35:45.797 PM		INFO	                		Good4 added to good guys.
+11/29/17 12:35:45.798 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 12:35:45.800 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 12:35:45.801 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 12:35:45.802 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 12:35:45.803 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 12:35:45.804 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 12:35:45.805 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 12:35:45.806 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 12:35:45.806 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 12:35:52.026 PM		INITIATIVE	                		Good1 initiative is 0 (2,3,4,5,15) (29)
+11/29/17 12:35:52.026 PM		INITIATIVE	                		Good2 initiative is 0 (1,6) (7)
+11/29/17 12:35:52.042 PM		INITIATIVE	                		Good3 initiative is 0 (1,1,8) (10)
+11/29/17 12:35:52.057 PM		INITIATIVE	                		Good4 initiative is 0 (4,6) (10)
+11/29/17 12:35:52.057 PM		INITIATIVE	                		Bad1 initiative is 0 (5,4) (9)
+11/29/17 12:35:52.073 PM		INITIATIVE	                		Bad2 initiative is 0 (3,6) (9)
+11/29/17 12:35:52.073 PM		INITIATIVE	                		Bad3 initiative is 0 (4,1,4) (9)
+11/29/17 12:35:52.088 PM		INITIATIVE	                		Bad4 initiative is 0 (2,6) (8)
+11/29/17 12:35:52.088 PM		INFO	                		Good1's turn.
+11/29/17 12:37:19.504 PM		INFO	                		Good1 added to good guys.
+11/29/17 12:37:19.529 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 12:37:19.537 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 12:37:19.546 PM		INFO	                		Fist weapon added to Good1
+11/29/17 12:37:19.548 PM		INFO	                		Good2 added to good guys.
+11/29/17 12:37:19.551 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 12:37:19.552 PM		INFO	                		Fist weapon added to Good2
+11/29/17 12:37:19.555 PM		INFO	                		Good3 added to good guys.
+11/29/17 12:37:19.556 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 12:37:19.558 PM		INFO	                		Good4 added to good guys.
+11/29/17 12:37:19.559 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 12:37:19.561 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 12:37:19.563 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 12:37:19.564 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 12:37:19.578 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 12:37:19.580 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 12:37:19.580 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 12:37:19.581 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 12:37:19.582 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 12:37:25.086 PM		INITIATIVE	                		Good1 initiative is 0 (3,4,1,4,15) (27)
+11/29/17 12:37:25.102 PM		INITIATIVE	                		Good2 initiative is 0 (1,6) (7)
+11/29/17 12:37:25.103 PM		INITIATIVE	                		Good3 initiative is 0 (4,5,8) (17)
+11/29/17 12:37:25.103 PM		INITIATIVE	                		Good4 initiative is 0 (1,6) (7)
+11/29/17 12:37:25.106 PM		INITIATIVE	                		Bad1 initiative is 0 (2,4) (6)
+11/29/17 12:37:25.112 PM		INITIATIVE	                		Bad2 initiative is 0 (3,6) (9)
+11/29/17 12:37:25.145 PM		INITIATIVE	                		Bad3 initiative is 0 (2,3,4) (9)
+11/29/17 12:37:25.145 PM		INITIATIVE	                		Bad4 initiative is 0 (1,6) (7)
+11/29/17 12:37:25.160 PM		INFO	                		Good1's turn.
+11/29/17 12:39:18.432 PM		INFO	                		Good1 added to good guys.
+11/29/17 12:39:18.448 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 12:39:18.455 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 12:39:18.459 PM		INFO	                		Fist weapon added to Good1
+11/29/17 12:39:18.465 PM		INFO	                		Good2 added to good guys.
+11/29/17 12:39:18.466 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 12:39:18.466 PM		INFO	                		Fist weapon added to Good2
+11/29/17 12:39:18.467 PM		INFO	                		Good3 added to good guys.
+11/29/17 12:39:18.468 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 12:39:18.469 PM		INFO	                		Good4 added to good guys.
+11/29/17 12:39:18.469 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 12:39:18.471 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 12:39:18.472 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 12:39:18.473 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 12:39:18.474 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 12:39:18.474 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 12:39:18.475 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 12:39:18.476 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 12:39:18.476 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 12:39:20.579 PM		INITIATIVE	                		Good1 initiative is 0 (1,2,4,3,15) (25)
+11/29/17 12:39:20.610 PM		INITIATIVE	                		Good2 initiative is 0 (5,6) (11)
+11/29/17 12:39:20.626 PM		INITIATIVE	                		Good3 initiative is 0 (3,5,8) (16)
+11/29/17 12:39:20.641 PM		INITIATIVE	                		Good4 initiative is 0 (3,6) (9)
+11/29/17 12:39:20.641 PM		INITIATIVE	                		Bad1 initiative is 0 (1,4) (5)
+11/29/17 12:39:20.657 PM		INITIATIVE	                		Bad2 initiative is 0 (1,6) (7)
+11/29/17 12:39:20.657 PM		INITIATIVE	                		Bad3 initiative is 0 (5,1,4) (10)
+11/29/17 12:39:20.673 PM		INITIATIVE	                		Bad4 initiative is 0 (3,6) (9)
+11/29/17 12:39:20.673 PM		INFO	                		Good1's turn.
+11/29/17 12:41:27.812 PM		INFO	                		Good1 added to good guys.
+11/29/17 12:41:27.833 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 12:41:27.838 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 12:41:27.856 PM		INFO	                		Fist weapon added to Good1
+11/29/17 12:41:27.857 PM		INFO	                		Good2 added to good guys.
+11/29/17 12:41:27.858 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 12:41:27.859 PM		INFO	                		Fist weapon added to Good2
+11/29/17 12:41:27.860 PM		INFO	                		Good3 added to good guys.
+11/29/17 12:41:27.861 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 12:41:27.862 PM		INFO	                		Good4 added to good guys.
+11/29/17 12:41:27.866 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 12:41:27.868 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 12:41:27.870 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 12:41:27.871 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 12:41:27.872 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 12:41:27.873 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 12:41:27.874 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 12:41:27.875 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 12:41:27.876 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 12:41:31.250 PM		INITIATIVE	                		Good1 initiative is 0 (5,3,5,5,15) (33)
+11/29/17 12:41:31.297 PM		INITIATIVE	                		Good2 initiative is 0 (2,6) (8)
+11/29/17 12:41:31.313 PM		INITIATIVE	                		Good3 initiative is 0 (1,1,8) (10)
+11/29/17 12:41:31.328 PM		INITIATIVE	                		Good4 initiative is 0 (4,6) (10)
+11/29/17 12:41:31.328 PM		INITIATIVE	                		Bad1 initiative is 0 (4,4) (8)
+11/29/17 12:41:31.344 PM		INITIATIVE	                		Bad2 initiative is 0 (1,6) (7)
+11/29/17 12:41:31.344 PM		INITIATIVE	                		Bad3 initiative is 0 (1,5,4) (10)
+11/29/17 12:41:31.344 PM		INITIATIVE	                		Bad4 initiative is 0 (5,6) (11)
+11/29/17 12:41:31.360 PM		INFO	                		Good1's turn.
+11/29/17 12:52:49.056 PM		INFO	                		Good1 added to good guys.
+11/29/17 12:52:49.078 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 12:52:49.083 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 12:52:49.088 PM		INFO	                		Fist weapon added to Good1
+11/29/17 12:52:49.090 PM		INFO	                		Good2 added to good guys.
+11/29/17 12:52:49.091 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 12:52:49.092 PM		INFO	                		Fist weapon added to Good2
+11/29/17 12:52:49.093 PM		INFO	                		Good3 added to good guys.
+11/29/17 12:52:49.093 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 12:52:49.095 PM		INFO	                		Good4 added to good guys.
+11/29/17 12:52:49.095 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 12:52:49.097 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 12:52:49.098 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 12:52:49.099 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 12:52:49.100 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 12:52:49.101 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 12:52:49.102 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 12:52:49.102 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 12:52:49.103 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 12:52:52.287 PM		INITIATIVE	                		Good1 initiative is 0 (5,5,4,5,15) (34)
+11/29/17 12:52:52.320 PM		INITIATIVE	                		Good2 initiative is 0 (2,6) (8)
+11/29/17 12:52:52.335 PM		INITIATIVE	                		Good3 initiative is 0 (5,3,8) (16)
+11/29/17 12:52:52.348 PM		INITIATIVE	                		Good4 initiative is 0 (5,6) (11)
+11/29/17 12:52:52.357 PM		INITIATIVE	                		Bad1 initiative is 0 (1,4) (5)
+11/29/17 12:52:52.366 PM		INITIATIVE	                		Bad2 initiative is 0 (3,6) (9)
+11/29/17 12:52:52.375 PM		INITIATIVE	                		Bad3 initiative is 0 (2,3,4) (9)
+11/29/17 12:52:52.386 PM		INITIATIVE	                		Bad4 initiative is 0 (5,6) (11)
+11/29/17 12:52:52.398 PM		INFO	                		Good1's turn.
+11/29/17 12:53:07.674 PM		INFO	                		Good3's turn.
+11/29/17 12:53:17.346 PM		INFO	                		Good4's turn.
+11/29/17 12:53:37.244 PM		INFO	                		Bad4's turn.
+11/29/17 12:53:52.133 PM		INFO	                		Bad2's turn.
+11/29/17 12:54:11.719 PM		INFO	                		Bad3's turn.
+11/29/17 12:54:25.234 PM		INFO	                		Good2's turn.
+11/29/17 12:54:34.191 PM		INFO	                		Bad1's turn.
+11/29/17 12:54:42.366 PM		INFO	                		Initiative is now resolved, combat round is over.
+11/29/17 12:55:34.129 PM		INFO	                		Good1 added to good guys.
+11/29/17 12:55:34.148 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 12:55:34.166 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 12:55:34.193 PM		INFO	                		Fist weapon added to Good1
+11/29/17 12:55:34.198 PM		INFO	                		Good2 added to good guys.
+11/29/17 12:55:34.201 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 12:55:34.202 PM		INFO	                		Fist weapon added to Good2
+11/29/17 12:55:34.203 PM		INFO	                		Good3 added to good guys.
+11/29/17 12:55:34.204 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 12:55:34.205 PM		INFO	                		Good4 added to good guys.
+11/29/17 12:55:34.206 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 12:55:34.209 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 12:55:34.211 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 12:55:34.212 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 12:55:34.213 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 12:55:34.214 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 12:55:34.215 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 12:55:34.215 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 12:55:34.216 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 12:55:37.091 PM		INITIATIVE	                		Good1 initiative is 0 (1,1,2,1,15) (20)
+11/29/17 12:55:37.100 PM		INITIATIVE	                		Good2 initiative is 0 (4,6) (10)
+11/29/17 12:55:37.114 PM		INITIATIVE	                		Good3 initiative is 0 (3,4,8) (15)
+11/29/17 12:55:37.124 PM		INITIATIVE	                		Good4 initiative is 0 (1,6) (7)
+11/29/17 12:55:37.136 PM		INITIATIVE	                		Bad1 initiative is 0 (3,4) (7)
+11/29/17 12:55:37.144 PM		INITIATIVE	                		Bad2 initiative is 0 (2,6) (8)
+11/29/17 12:55:37.152 PM		INITIATIVE	                		Bad3 initiative is 0 (4,3,4) (11)
+11/29/17 12:55:37.160 PM		INITIATIVE	                		Bad4 initiative is 0 (1,6) (7)
+11/29/17 12:55:37.169 PM		INFO	                		Good1's turn.
+11/29/17 12:55:44.897 PM		INFO	                		Good3's turn.
+11/29/17 12:55:56.029 PM		INFO	                		Bad3's turn.
+11/29/17 12:56:09.527 PM		INFO	                		Good2's turn.
+11/29/17 12:56:13.159 PM		INFO	                		Bad2's turn.
+11/29/17 12:56:18.655 PM		INFO	                		Good4's turn.
+11/29/17 12:56:22.959 PM		INFO	                		Bad1's turn.
+11/29/17 12:56:25.959 PM		INFO	                		Bad4's turn.
+11/29/17 12:59:33.676 PM		INFO	                		Good1's turn.
+11/29/17 01:00:39.617 PM		INFO	                		Good1 added to good guys.
+11/29/17 01:00:39.677 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 01:00:39.683 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 01:00:39.700 PM		INFO	                		Fist weapon added to Good1
+11/29/17 01:00:39.706 PM		INFO	                		Good2 added to good guys.
+11/29/17 01:00:39.707 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 01:00:39.709 PM		INFO	                		Fist weapon added to Good2
+11/29/17 01:00:39.711 PM		INFO	                		Good3 added to good guys.
+11/29/17 01:00:39.712 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 01:00:39.713 PM		INFO	                		Good4 added to good guys.
+11/29/17 01:00:39.714 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 01:00:39.719 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 01:00:39.720 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 01:00:39.722 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 01:00:39.723 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 01:00:39.724 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 01:00:39.725 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 01:00:39.728 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 01:00:39.729 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 01:02:20.658 PM		INITIATIVE	                		Good1 initiative is 0 (5,3,2,2,15) (27)
+11/29/17 01:02:20.670 PM		INITIATIVE	                		Good2 initiative is 0 (5,6) (11)
+11/29/17 01:02:20.689 PM		INITIATIVE	                		Good3 initiative is 0 (4,2,8) (14)
+11/29/17 01:02:20.703 PM		INITIATIVE	                		Good4 initiative is 0 (2,6) (8)
+11/29/17 01:02:20.709 PM		INITIATIVE	                		Bad1 initiative is 0 (3,4) (7)
+11/29/17 01:02:20.717 PM		INITIATIVE	                		Bad2 initiative is 0 (5,6) (11)
+11/29/17 01:02:20.726 PM		INITIATIVE	                		Bad3 initiative is 0 (5,2,4) (11)
+11/29/17 01:02:20.738 PM		INITIATIVE	                		Bad4 initiative is 0 (1,6) (7)
+11/29/17 01:02:20.752 PM		INFO	                		Good1's turn.
+11/29/17 01:02:49.744 PM		INFO	                		Good3's turn.
+11/29/17 01:02:56.889 PM		INFO	                		Good2's turn.
+11/29/17 01:03:01.597 PM		INFO	                		Bad2's turn.
+11/29/17 01:03:04.554 PM		INFO	                		Bad3's turn.
+11/29/17 01:03:07.283 PM		INFO	                		Good4's turn.
+11/29/17 01:03:10.210 PM		INFO	                		Bad1's turn.
+11/29/17 01:03:12.578 PM		INFO	                		Bad4's turn.
+11/29/17 01:03:21.011 PM		INFO	                		Good1's turn.
+11/29/17 01:04:35.175 PM		INFO	                		Good1 added to good guys.
+11/29/17 01:04:35.191 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 01:04:35.198 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 01:04:35.205 PM		INFO	                		Fist weapon added to Good1
+11/29/17 01:04:35.215 PM		INFO	                		Good2 added to good guys.
+11/29/17 01:04:35.216 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 01:04:35.217 PM		INFO	                		Fist weapon added to Good2
+11/29/17 01:04:35.218 PM		INFO	                		Good3 added to good guys.
+11/29/17 01:04:35.219 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 01:04:35.221 PM		INFO	                		Good4 added to good guys.
+11/29/17 01:04:35.223 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 01:04:35.226 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 01:04:35.230 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 01:04:35.232 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 01:04:35.234 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 01:04:35.235 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 01:04:35.235 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 01:04:35.236 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 01:04:35.237 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 01:04:37.800 PM		INITIATIVE	                		Good1 initiative is 0 (2,5,3,5,15) (30)
+11/29/17 01:04:37.828 PM		INITIATIVE	                		Good2 initiative is 0 (4,6) (10)
+11/29/17 01:04:37.843 PM		INITIATIVE	                		Good3 initiative is 0 (1,4,8) (13)
+11/29/17 01:04:37.854 PM		INITIATIVE	                		Good4 initiative is 0 (2,6) (8)
+11/29/17 01:04:37.863 PM		INITIATIVE	                		Bad1 initiative is 0 (5,4) (9)
+11/29/17 01:04:37.869 PM		INITIATIVE	                		Bad2 initiative is 0 (3,6) (9)
+11/29/17 01:04:37.878 PM		INITIATIVE	                		Bad3 initiative is 0 (1,3,4) (8)
+11/29/17 01:04:37.885 PM		INITIATIVE	                		Bad4 initiative is 0 (1,6) (7)
+11/29/17 01:04:37.895 PM		INFO	                		Good1's turn.
+11/29/17 01:05:03.232 PM		INFO	                		Good3's turn.
+11/29/17 01:05:06.038 PM		INFO	                		Good2's turn.
+11/29/17 01:05:08.536 PM		INFO	                		Bad1's turn.
+11/29/17 01:05:10.800 PM		INFO	                		Bad2's turn.
+11/29/17 01:05:13.113 PM		INFO	                		Good4's turn.
+11/29/17 01:05:15.432 PM		INFO	                		Bad3's turn.
+11/29/17 01:05:17.177 PM		INFO	                		Bad4's turn.
+11/29/17 01:07:22.763 PM		INFO	                		Good1's turn.
+11/29/17 01:07:36.161 PM		INFO	                		Good3's turn.
+11/29/17 01:07:42.936 PM		INFO	                		Good1's turn.
+11/29/17 01:07:51.015 PM		INFO	                		Initiative is now resolved, combat round is over.
+11/29/17 01:08:02.730 PM		INITIATIVE	                		Good1 initiative is 0 (1,1,2,2,15) (21)
+11/29/17 01:08:02.763 PM		INITIATIVE	                		Good2 initiative is 0 (3,6) (9)
+11/29/17 01:08:02.790 PM		INITIATIVE	                		Good3 initiative is 0 (5,5,8) (18)
+11/29/17 01:08:02.801 PM		INITIATIVE	                		Good4 initiative is 0 (5,6) (11)
+11/29/17 01:08:02.808 PM		INITIATIVE	                		Bad1 initiative is 0 (2,4) (6)
+11/29/17 01:08:02.814 PM		INITIATIVE	                		Bad2 initiative is 0 (1,6) (7)
+11/29/17 01:08:02.821 PM		INITIATIVE	                		Bad3 initiative is 0 (1,5,4) (10)
+11/29/17 01:08:02.827 PM		INITIATIVE	                		Bad4 initiative is 0 (4,6) (10)
+11/29/17 01:08:02.834 PM		INFO	                		Good1's turn.
+11/29/17 01:23:31.302 PM		INFO	                		Good1 added to good guys.
+11/29/17 01:23:31.349 PM		INFO	                		Ares Predator weapon added to Good1
+11/29/17 01:23:31.531 PM		INFO	                		Fireball weapon added to Good1
+11/29/17 01:23:31.538 PM		INFO	                		Fist weapon added to Good1
+11/29/17 01:23:31.540 PM		INFO	                		Good2 added to good guys.
+11/29/17 01:23:31.540 PM		INFO	                		Fireball weapon added to Good2
+11/29/17 01:23:31.541 PM		INFO	                		Fist weapon added to Good2
+11/29/17 01:23:31.542 PM		INFO	                		Good3 added to good guys.
+11/29/17 01:23:31.544 PM		INFO	                		Ares Predator weapon added to Good3
+11/29/17 01:23:31.545 PM		INFO	                		Good4 added to good guys.
+11/29/17 01:23:31.546 PM		INFO	                		Ares Predator weapon added to Good4
+11/29/17 01:23:31.547 PM		INFO	                		Bad1 added to bad guys.
+11/29/17 01:23:31.549 PM		INFO	                		Bad2 added to bad guys.
+11/29/17 01:23:31.550 PM		INFO	                		Bad3 added to bad guys.
+11/29/17 01:23:31.551 PM		INFO	                		Bad4 added to bad guys.
+11/29/17 01:23:31.552 PM		INFO	                		Ares Predator weapon added to Bad1
+11/29/17 01:23:31.553 PM		INFO	                		Ares Predator weapon added to Bad2
+11/29/17 01:23:31.553 PM		INFO	                		Ares Predator weapon added to Bad3
+11/29/17 01:23:31.554 PM		INFO	                		Ares Predator weapon added to Bad4
+11/29/17 01:23:33.679 PM		INITIATIVE	                		Good1 initiative is 0 (5,4,5,5,15) (34)
+11/29/17 01:23:33.711 PM		INITIATIVE	                		Good2 initiative is 0 (1,6) (7)
+11/29/17 01:23:33.711 PM		INITIATIVE	                		Good3 initiative is 0 (4,2,8) (14)
+11/29/17 01:23:33.726 PM		INITIATIVE	                		Good4 initiative is 0 (3,6) (9)
+11/29/17 01:23:33.726 PM		INITIATIVE	                		Bad1 initiative is 0 (4,4) (8)
+11/29/17 01:23:33.742 PM		INITIATIVE	                		Bad2 initiative is 0 (2,6) (8)
+11/29/17 01:23:33.742 PM		INITIATIVE	                		Bad3 initiative is 0 (5,2,4) (11)
+11/29/17 01:23:33.757 PM		INITIATIVE	                		Bad4 initiative is 0 (2,6) (8)
+11/29/17 01:23:33.757 PM		INFO	                		Good1's turn.
+11/29/17 01:23:57.162 PM		INFO	                		Good3's turn.
+11/29/17 01:23:59.802 PM		INFO	                		Bad3's turn.
+11/29/17 01:24:02.987 PM		INFO	                		Good4's turn.
+11/29/17 01:24:05.503 PM		INFO	                		Bad1's turn.
+11/29/17 01:24:08.773 PM		INFO	                		Bad2's turn.
+11/29/17 01:24:11.185 PM		INFO	                		Bad4's turn.
+11/29/17 01:24:14.457 PM		INFO	                		Good2's turn.
+11/29/17 01:24:17.537 PM		INFO	                		Good1's turn.
+11/29/17 01:24:30.396 PM		INFO	                		Good3's turn.
+11/29/17 01:24:50.755 PM		INFO	                		Bad3's turn.
+11/29/17 01:24:55.024 PM		INFO	                		Good1's turn.
+11/29/17 01:25:01.196 PM		INFO	                		Good1's turn.
+11/29/17 01:25:09.412 PM		INFO	                		Initiative is now resolved, combat round is over.
+11/29/17 01:25:14.405 PM		INITIATIVE	                		Good1 initiative is 0 (4,4,5,5,15) (33)
+11/29/17 01:25:14.436 PM		INITIATIVE	                		Good2 initiative is 0 (2,6) (8)
+11/29/17 01:25:14.452 PM		INITIATIVE	                		Good3 initiative is 0 (2,1,8) (11)
+11/29/17 01:25:14.468 PM		INITIATIVE	                		Good4 initiative is 0 (1,6) (7)
+11/29/17 01:25:14.483 PM		INITIATIVE	                		Bad1 initiative is 0 (4,4) (8)
+11/29/17 01:25:14.483 PM		INITIATIVE	                		Bad2 initiative is 0 (3,6) (9)
+11/29/17 01:25:14.483 PM		INITIATIVE	                		Bad3 initiative is 0 (5,4,4) (13)
+11/29/17 01:25:14.499 PM		INITIATIVE	                		Bad4 initiative is 0 (2,6) (8)
+11/29/17 01:25:14.499 PM		INFO	                		Good1's turn.
