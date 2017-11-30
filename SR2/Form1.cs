@@ -128,6 +128,7 @@ namespace SR2
             d.modifier = int.Parse(parse[9]);
             d.Name = parse[10];
             d.attrib = parse[11];
+            d.skill = parse[12];
             foreach (CharacterClass c in goodList)
             {
                 if (c.Name == parse[0])

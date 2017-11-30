@@ -19,6 +19,7 @@ namespace SR2
         public bool spell { get; set; }
         public int modifier { get; set; }
         public string attrib { get; set; }
+        public string skill { get; set; }
 
         public DamageClass()
         {
