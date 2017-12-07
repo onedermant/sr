@@ -11,6 +11,7 @@ namespace SR2
         public System.Windows.Forms.Label label;
         public System.Windows.Forms.ComboBox weaponList;
         public System.Windows.Forms.ComboBox modeList;
+        public System.Windows.Forms.ComboBox coverCombo;
         public string Name { get; set; }
         public int Agility { get; set; }
         public int Strength { get; set; }

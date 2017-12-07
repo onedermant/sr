@@ -17,6 +17,8 @@ namespace SR2
         int labelPosX = 6;
         int BadlabelPosY = 30;
         int BadlabelPosX = 6;
+        int comboCoverTargetPosY = 68;
+        int comboCoverPosY = 70;
         List<CharacterClass> goodList = new List<CharacterClass>();
         List<CharacterClass> badList = new List<CharacterClass>();
         List<CharacterClass> InitiativeOrder = new List<CharacterClass>();
@@ -30,6 +32,9 @@ namespace SR2
             InitializeComponent();
             EventClass.eventLog2 += new EventClass.EventLogHandler(EventLog);
             Populate();
+            //comboBox1.Items.Add("No Cover");
+            //comboBox1.Items.Add("Partial Cover");
+            //comboBox1.Items.Add("Full Cover");
         }
 
         bool isGood(CharacterClass c)
@@ -71,7 +76,15 @@ namespace SR2
             combo.Tag = c;
             ComboBox modes = new ComboBox();
             modes.DisplayMember = "Modes";
-           
+            //cover combobox
+            ComboBox comboCover = new ComboBox();
+            comboCover.DisplayMember = "Cover";
+            comboCover.Items.Add("No Cover");
+            comboCover.Items.Add("Partial Cover");
+            comboCover.Items.Add("Full Cover");
+            comboCover.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboCover.Width = 75;
+            comboCover.SelectedIndex = 0;
             if (good)
             {
                 Label newLabel = new Label();
@@ -88,6 +101,12 @@ namespace SR2
                 c.label = newLabel;
                 c.weaponList = combo;
                 c.modeList = modes;
+                // combo cover
+                comboCover.Location = new Point(69, comboCoverPosY);
+                comboCoverPosY += 39;
+                c.coverCombo = comboCover;
+                this.Controls.Add(comboCover);
+
                 goodList.Add(c);
                 EventClass.LogEvent(c.Name + " added to good guys.");          
             }
@@ -107,6 +126,11 @@ namespace SR2
                 c.label = newLabel;
                 c.weaponList = combo;
                 c.modeList = modes;
+                // combo cover
+                comboCover.Location = new Point(661, comboCoverTargetPosY);
+                comboCoverTargetPosY += 39;
+                c.coverCombo = comboCover;
+                this.Controls.Add(comboCover);
                 badList.Add(c);
                 EventClass.LogEvent(c.Name + " added to bad guys.");
             }
