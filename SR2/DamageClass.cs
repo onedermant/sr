@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SR2
 {
-    class DamageClass
+    public class DamageClass
     {
         public string Name { get; set; }
         public int baseDamage { get; set; }
@@ -20,6 +20,7 @@ namespace SR2
         public int modifier { get; set; }
         public string attrib { get; set; }
         public string skill { get; set; }
+        public string special { get; set; }
 
         public DamageClass()
         {
@@ -33,6 +34,18 @@ namespace SR2
             spell = false;
             modifier = 0;
             attrib = string.Empty;
+        }
+
+        public static DamageClass getActiveWeapon(CharacterClass c)
+        {
+            foreach (DamageClass dam in c.damageList)
+            {
+                if (dam.Name == c.weaponList.SelectedItem.ToString())
+                {
+                    return dam;
+                }
+            }
+            return null;
         }
 
     }

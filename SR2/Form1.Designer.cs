@@ -36,6 +36,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.lblTarget = new System.Windows.Forms.Label();
             this.LogTextBox = new System.Windows.Forms.TextBox();
+            this.txtCharDisplay = new System.Windows.Forms.TextBox();
+            this.txtTargetDisplay = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button1
@@ -44,15 +46,15 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "Start";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // groupBox1
             // 
-            this.groupBox1.Location = new System.Drawing.Point(12, 24);
+            this.groupBox1.Location = new System.Drawing.Point(144, 24);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(566, 536);
+            this.groupBox1.Size = new System.Drawing.Size(434, 215);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Good";
@@ -112,11 +114,31 @@
             this.LogTextBox.Size = new System.Drawing.Size(1291, 424);
             this.LogTextBox.TabIndex = 7;
             // 
+            // txtCharDisplay
+            // 
+            this.txtCharDisplay.Location = new System.Drawing.Point(12, 245);
+            this.txtCharDisplay.Multiline = true;
+            this.txtCharDisplay.Name = "txtCharDisplay";
+            this.txtCharDisplay.ReadOnly = true;
+            this.txtCharDisplay.Size = new System.Drawing.Size(270, 304);
+            this.txtCharDisplay.TabIndex = 8;
+            // 
+            // txtTargetDisplay
+            // 
+            this.txtTargetDisplay.Location = new System.Drawing.Point(308, 245);
+            this.txtTargetDisplay.Multiline = true;
+            this.txtTargetDisplay.Name = "txtTargetDisplay";
+            this.txtTargetDisplay.ReadOnly = true;
+            this.txtTargetDisplay.Size = new System.Drawing.Size(270, 304);
+            this.txtTargetDisplay.TabIndex = 9;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1410, 1002);
+            this.Controls.Add(this.txtTargetDisplay);
+            this.Controls.Add(this.txtCharDisplay);
             this.Controls.Add(this.LogTextBox);
             this.Controls.Add(this.lblTarget);
             this.Controls.Add(this.label1);
@@ -142,6 +164,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblTarget;
         private System.Windows.Forms.TextBox LogTextBox;
+        private System.Windows.Forms.TextBox txtCharDisplay;
+        private System.Windows.Forms.TextBox txtTargetDisplay;
     }
 }
 

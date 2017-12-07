@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SR2
 {
-    class CharacterClass
+    public class CharacterClass
     {
         public System.Windows.Forms.Label label;
         public System.Windows.Forms.ComboBox weaponList;
@@ -76,6 +76,49 @@ namespace SR2
             string s = string.Empty;
             s = Name + " A:"+Agility+ " B:"+Body+ " Str:" +Strength+ " Int:"+Intelligence+ " Intu:" + Intuition+ " C:"+Charisma+" W:"+Willpower+ " L:"+Logic+" Init:" + Initiative + " R:" + Reaction;
             return s;
+        }
+
+        public int getAttributeSkillValue(DamageClass d)
+        {
+            if (d.attrib == "Agility")
+                return Agility;
+            if (d.attrib == "Body")
+                return Body;
+            if (d.attrib == "Intelligence")
+                return Intelligence;
+            if (d.attrib == "Strength")
+                return Strength;
+            if (d.attrib == "Intuition")
+                return Intuition;
+            if (d.attrib == "Charisma")
+                return Charisma;
+            if (d.attrib == "Willpower")
+                return Willpower;
+            if (d.attrib == "Logic")
+                return Logic;
+
+            return -1;
+        }
+        public int getAttributeSkillValue(string attrib)
+        {
+            if (attrib == "Agility")
+                return Agility;
+            if (attrib == "Body")
+                return Body;
+            if (attrib == "Intelligence")
+                return Intelligence;
+            if (attrib == "Strength")
+                return Strength;
+            if (attrib == "Intuition")
+                return Intuition;
+            if (attrib == "Charisma")
+                return Charisma;
+            if (attrib == "Willpower")
+                return Willpower;
+            if (attrib == "Logic")
+                return Logic;
+
+            return -1;
         }
     }
 }

@@ -65,5 +65,24 @@ namespace SR2
             s = "(" + string.Join(",", Roll(attrib+numDice, 0)) + ")";
             return s;
         }
+
+        public string displayRolls(List<int> rolls)
+        {
+            string s = string.Empty;
+            s = "(" + string.Join(",", rolls) + ")";
+            return s;
+        }
+
+        public int returnSuccesses(List<int> rolls)
+        {
+            int total = 0;
+            foreach(int roll in rolls)
+            {
+                if (roll < 5) continue;
+                total++;
+            }
+            return total;
+        }
+
     }
 }

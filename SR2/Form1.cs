@@ -135,8 +135,7 @@ namespace SR2
                 {
                     c.weaponList.Items.Add(d.Name);
                     c.damageList.Add(d);
-                    EventClass.LogEvent(d.Name + " weapon added to " + c.Name);
-                    c.damageList.Add(d);                    
+                    EventClass.LogEvent(d.Name + " weapon added to " + c.Name);                 
                     found = true;
                     return;
                 }
@@ -210,7 +209,7 @@ namespace SR2
             }
             catch (Exception e)
             {
-
+                EventClass.LogEvent("Error in ImportGood " + e.Message);
             }
         }
 
@@ -237,7 +236,7 @@ namespace SR2
             }
             catch (Exception e)
             {
-
+                EventClass.LogEvent("Error in ImportBad " + e.Message);
             }
         }
         void ParseImportAllFile()
@@ -418,6 +417,7 @@ namespace SR2
                 groupBox1.Controls.Add(goButton);
             else
                 groupBox2.Controls.Add(goButton);
+            writeCharacterToTextBox(InitiativeOrder[0],txtCharDisplay);
             EventClass.LogEvent(InitiativeOrder[0].Name + "'s turn.");
             CreateTargetButtons(InitiativeOrder[0]);
         }
@@ -466,20 +466,67 @@ namespace SR2
             CharacterClass c = (CharacterClass)b.Tag;
             lblTarget.Text = c.Name;
             target = c;
+            writeCharacterToTextBox(target, txtTargetDisplay);
         }
 
         void resolveCombat(CharacterClass c, CharacterClass t)
         {
             int i = 0;
-            DamageClass weapon = new DamageClass();
-            foreach(DamageClass dam in c.damageList)
+            DamageClass charWeapon =   DamageClass.getActiveWeapon(c);
+            int charWeaponSkill = SkillClass.getSkill(c, charWeapon);
+            int charAttribute = c.getAttributeSkillValue(charWeapon);
+           // DamageClass targetWeapon = DamageClass.getActiveWeapon(t);
+            //int targetWeaponSkill = SkillClass.getSkill(t, targetWeapon);
+            //int targetAttribute = c.getAttributeSkillValue(targetWeapon);
+
+            RollerClass r = new RollerClass();
+            List<int> charRolls = r.Roll(charWeaponSkill + charAttribute, 0);
+            int charSuccess = r.returnSuccesses(charRolls);
+
+            List<int> targetRolls = r.Roll(t.Reaction + t.Intuition, 0);
+            int targetSuccess = r.returnSuccesses(targetRolls);
+
+            int netSuccesses = charSuccess - targetSuccess;
+            EventClass.LogEvent(c.Name + " attack rolls (" + charSuccess + ")  " + r.displayRolls(charRolls));
+            EventClass.LogEvent(t.Name + " defense rolls (" + targetSuccess + ")  " + r.displayRolls(targetRolls));
+            if (netSuccesses > 0)
             {
-                if (dam.Name == c.weaponList.SelectedItem.ToString())
+                List<int> targetResistRolls = r.Roll(t.Body + t.Armor - charWeapon.armorPen, 0);
+                int targetResistSuccess = r.returnSuccesses(targetResistRolls);
+                EventClass.LogEvent(t.Name + " resist rolls (" + targetResistSuccess + ")  " + r.displayRolls(targetResistRolls));
+                int dv = charWeapon.baseDamage + netSuccesses;
+                int damage = dv - targetResistSuccess;
+                EventClass.LogEvent(c.Name + " dv = " + dv + "  damage = " + damage);
+                if (dv >= (t.Armor - charWeapon.armorPen))
                 {
-                    weapon = dam;
-                    break;
+                    //t.Health -= damage;
+                    EventClass.LogEvent(c.Name + " did physical damage of " + damage + " to " + t.Name);
                 }
+                else
+                {
+                    //t.Stun -= damage;
+                    EventClass.LogEvent(c.Name + " did stun damage of " + damage + " to " + t.Name);
+                }
+            } else
+            {
+                EventClass.LogEvent(c.Name + " missed " + t.Name);
             }
+
+            
+        }
+
+        void writeCharacterToTextBox(CharacterClass c,TextBox txtBox)
+        {
+            txtBox.Clear();
+            string s =      c.Name + "\r\n"+
+                            "Body          : " + c.Body + "    Strength        : " +c.Strength+"\r\n"+
+                            "Agility         : " + c.Agility+"    Intelligence : " + c.Intelligence+ "\r\n" +
+                            "Willpower : " + c.Willpower+"    Charisma     : " + c.Charisma+ "\r\n" +
+                            "Intuition      : " + c.Intuition+"    Logic             : " + c.Logic+ "\r\n";
+
+            s += SkillClass.getAllSkills(c);
+           
+            txtBox.Text = s;
         }
 
         // ============================================================================================================================
